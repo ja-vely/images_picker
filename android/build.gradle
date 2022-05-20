@@ -1,4 +1,4 @@
-group 'com.chavesgu.images_picker'
+group 'com.ja-vely.images_picker'
 version '1.0'
 
 buildscript {
